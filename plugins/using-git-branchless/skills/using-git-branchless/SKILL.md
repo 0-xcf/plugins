@@ -1,5 +1,5 @@
 ---
-name: git-branchless
+name: using-git-branchless
 description: Use when working in a git repo that uses git-branchless or stacked-diffs workflow. Triggers - git sl in CLAUDE.md, branchless in git config, user mentions stacks or stacked diffs, need to rebase/move/reorder commits, submit stacked PRs.
 ---
 
