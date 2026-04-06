@@ -1,0 +1,6 @@
+{
+  "name": "rebase-resolver",
+  "description": "Expert git rebase agent that understands conflict context by analyzing history on both branches before resolving",
+  "version": "1.0.0",
+  "author": { "name": "abizer" }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "xcf-plugins",
+  "owner": { "name": "abizer" },
+  "plugins": [
+    {
+      "name": "rebase-resolver",
+      "source": "./plugins/rebase-resolver",
+      "description": "Expert git rebase agent that understands conflict context by analyzing history on both branches before resolving",
+      "version": "1.0.0"
+    }
+  ]
+}
