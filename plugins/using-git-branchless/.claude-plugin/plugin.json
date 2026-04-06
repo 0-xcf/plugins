@@ -1,5 +1,5 @@
 {
-  "name": "git-branchless",
+  "name": "using-git-branchless",
   "description": "Stacked-diffs workflow skill for git-branchless — commits as the unit of work, not branches",
   "version": "1.0.0",
   "author": { "name": "abizer" }

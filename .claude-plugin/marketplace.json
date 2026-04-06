@@ -9,8 +9,8 @@
       "version": "1.0.0"
     },
     {
-      "name": "git-branchless",
-      "source": "./plugins/git-branchless",
+      "name": "using-git-branchless",
+      "source": "./plugins/using-git-branchless",
       "description": "Stacked-diffs workflow skill for git-branchless — commits as the unit of work, not branches",
       "version": "1.0.0"
     },
