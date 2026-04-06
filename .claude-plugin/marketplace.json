@@ -7,6 +7,24 @@
       "source": "./plugins/rebase-resolver",
       "description": "Expert git rebase agent that understands conflict context by analyzing history on both branches before resolving",
       "version": "1.0.0"
+    },
+    {
+      "name": "git-branchless",
+      "source": "./plugins/git-branchless",
+      "description": "Stacked-diffs workflow skill for git-branchless — commits as the unit of work, not branches",
+      "version": "1.0.0"
+    },
+    {
+      "name": "abizer-code-review",
+      "source": "./plugins/abizer-code-review",
+      "description": "Opinionated Python code review skill following arini-ai/hire-ai team conventions",
+      "version": "1.0.0"
+    },
+    {
+      "name": "maintain-changelog",
+      "source": "./plugins/maintain-changelog",
+      "description": "Automatically maintain a CHANGELOG.md documenting changes across sessions",
+      "version": "1.0.0"
     }
   ]
 }

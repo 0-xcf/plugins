@@ -1,0 +1,6 @@
+{
+  "name": "maintain-changelog",
+  "description": "Automatically maintain a CHANGELOG.md documenting changes across sessions",
+  "version": "1.0.0",
+  "author": { "name": "abizer" }
+}

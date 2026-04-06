@@ -1,0 +1,6 @@
+{
+  "name": "abizer-code-review",
+  "description": "Opinionated Python code review skill following arini-ai/hire-ai team conventions",
+  "version": "1.0.0",
+  "author": { "name": "abizer" }
+}
